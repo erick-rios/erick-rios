@@ -1,12 +1,12 @@
-<img style="display: block; margin: 0 auto;" alt="Neural Network Training" width="250" src="https://miro.medium.com/v2/resize:fit:500/0*61ZaNNpbpMtZLLpZ.">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erick-rios.erick-rios.readme.github" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Erick+Ríos!;" />
-</h1>
+<h1 align="center">Hi There👋, I'm Erick Ríos!</h1>
+<div align="center">
+    <img alt="Neural Network Training" width="400" src="https://miro.medium.com/v2/resize:fit:500/0*61ZaNNpbpMtZLLpZ.">
+</div>
 
-<h3 align="center">A passionate Quantum Computer Scientist from Mexico 🇲🇽</h3>
+<h3 align="center">A passionate Quantum Computer Scientist from Mexico 🇲🇽!</h3>
 
 <br/>
 
