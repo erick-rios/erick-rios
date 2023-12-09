@@ -1,3 +1,5 @@
+<img align = "center" alt="Neural Network Training" width = "500" src = "https://miro.medium.com/v2/resize:fit:500/0*61ZaNNpbpMtZLLpZ.">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erick-rios.erick-rios.readme.github" />
 
 <h1 align="center">
